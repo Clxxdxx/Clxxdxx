@@ -26,14 +26,6 @@ I'm a junior developer who can adapt to both backend and frontend work. I hold d
 </p>
 
 ## 🎓 42Cursus
-
-<p align="center">
-  <a href="https://profile.intra.42.fr/users/clalopez" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/42_Logo.svg" width="80" alt="42 Madrid Logo" />
-  </a>
-  
-  <br/>
-
   [![Claudio's 42 stats](https://badge.mediaplus.ma/darkblue/clalopez)](https://profile.intra.42.fr/users/clalopez)
 </p>
 <br/>
