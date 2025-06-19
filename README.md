@@ -37,16 +37,17 @@ I'm a junior developer who can adapt to both backend and frontend work. I hold d
   [![Claudio's 42 stats](https://badge.mediaplus.ma/darkblue/clalopez)](https://profile.intra.42.fr/users/clalopez)
 </p>
 
-## 🧠 42 Projects
+## 🏗️ 42 Projects Completed
 
-- 🔹 [Libft](https://github.com/tuusuario/libft)
-- 🛡️ [Born2BeRoot](https://github.com/tuusuario/Born2BeRoot)
-- 🧾 [ft_printf](https://github.com/tuusuario/ft_printf)
-- 🔄 [get_next_line](https://github.com/tuusuario/get_next_line)
-- 🔀 [push_swap](https://github.com/tuusuario/push_swap)
-- 🎮 [so_long](https://github.com/tuusuario/so_long)
-- 🔧 [pipex](https://github.com/tuusuario/pipex)
-- 🍝 [philosophers](https://github.com/tuusuario/philosophers)
+![Libft](https://img.shields.io/badge/-Libft-0A0A0A?style=for-the-badge&logo=c&logoColor=white)
+![Born2BeRoot](https://img.shields.io/badge/-Born2BeRoot-4E4E4E?style=for-the-badge&logo=linux&logoColor=white)
+![ft_printf](https://img.shields.io/badge/-ft__printf-222222?style=for-the-badge&logo=printf&logoColor=white)
+![get_next_line](https://img.shields.io/badge/-get__next__line-282828?style=for-the-badge&logo=code&logoColor=white)
+![push_swap](https://img.shields.io/badge/-push__swap-505050?style=for-the-badge&logo=arrows-to-dot&logoColor=white)
+![so_long](https://img.shields.io/badge/-so__long-2C2C2C?style=for-the-badge&logo=unity&logoColor=white)
+![pipex](https://img.shields.io/badge/-pipex-444444?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![philosophers](https://img.shields.io/badge/-philosophers-3A3A3A?style=for-the-badge&logo=ghostery&logoColor=white)
+
 
 
 <!--
