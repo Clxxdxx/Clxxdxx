@@ -37,6 +37,18 @@ I'm a junior developer who can adapt to both backend and frontend work. I hold d
   [![Claudio's 42 stats](https://badge.mediaplus.ma/darkblue/clalopez)](https://profile.intra.42.fr/users/clalopez)
 </p>
 
+## 🧠 42 Projects
+
+- 🔹 [Libft](https://github.com/tuusuario/libft)
+- 🛡️ [Born2BeRoot](https://github.com/tuusuario/Born2BeRoot)
+- 🧾 [ft_printf](https://github.com/tuusuario/ft_printf)
+- 🔄 [get_next_line](https://github.com/tuusuario/get_next_line)
+- 🔀 [push_swap](https://github.com/tuusuario/push_swap)
+- 🎮 [so_long](https://github.com/tuusuario/so_long)
+- 🔧 [pipex](https://github.com/tuusuario/pipex)
+- 🍝 [philosophers](https://github.com/tuusuario/philosophers)
+
+
 <!--
 **Clxxdxx/Clxxdxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
