@@ -39,14 +39,15 @@ I'm a junior developer who can adapt to both backend and frontend work. I hold d
 
 ## 🧠 42 Projects
 
-- ✅ [**Libft**](https://github.com/tuusuario/libft): custom C library
+- ✅ [**Libft**](https://github.com/Clxxdxx/42Projects/tree/main/libft)): custom C library
 - ✅ [**Born2BeRoot**](https://github.com/tuusuario/Born2BeRoot): secure VM config
-- ✅ [**ft_printf**](https://github.com/tuusuario/ft_printf): own printf
-- ✅ [**get_next_line**](https://github.com/tuusuario/get_next_line): read files line by line
-- ✅ [**push_swap**](https://github.com/tuusuario/push_swap): sort algorithm challenge
-- ✅ [**so_long**](https://github.com/tuusuario/so_long): 2D game in C
-- ✅ [**pipex**](https://github.com/tuusuario/pipex): Unix pipes recreation
-- ✅ [**philosophers**](https://github.com/tuusuario/philosophers): threads/sync problem
+- ✅ [**ft_printf**](https://github.com/Clxxdxx/42Projects/tree/main/ft_printf): own printf
+- ✅ [**get_next_line**](https://github.com/Clxxdxx/42Projects/tree/main/get_next_line): read files line by line
+- ✅ [**push_swap**](https://github.com/Clxxdxx/42Projects/tree/main/push_swap): sort algorithm challenge
+- ✅ [**so_long**](https://github.com/Clxxdxx/42Projects/tree/main/so_long): 2D game in C
+- ✅ [**pipex**](https://github.com/Clxxdxx/42Projects/tree/main/pipex): Unix pipes recreation
+- ✅ [**philosophers**](https://github.com/Clxxdxx/42Projects/tree/main/philo): threads/sync problem
+- ⏳ [**minishell**](https://github.com/jbogad/mini_shell): Recreation bash shell. (This project is in pairs)
 
 
 
