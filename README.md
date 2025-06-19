@@ -25,6 +25,8 @@ I'm a junior developer who can adapt to both backend and frontend work. I hold d
   <img src="https://github.com/user-attachments/assets/f4af8b82-b76c-4c3b-9e09-0d2c2fba9463" width="60" style="margin: 5px;" />
 </p>
 
+## 🎓 42Cursus
+[42 Madrid](https://profile.intra.42.fr/users/clalopez)
 
 <!--
 **Clxxdxx/Clxxdxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
