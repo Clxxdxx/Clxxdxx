@@ -36,6 +36,7 @@ I'm a junior developer who can adapt to both backend and frontend work. I hold d
 
   [![Claudio's 42 stats](https://badge.mediaplus.ma/darkblue/clalopez)](https://profile.intra.42.fr/users/clalopez)
 </p>
+<br/>
 
 ## 🧠 42 Projects
 
