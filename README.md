@@ -62,6 +62,14 @@ I'm a junior developer who can adapt to both backend and frontend work. I hold d
   <img src="https://github-profile-trophy.vercel.app/?username=Clxxdxx&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
 
+ ## Others
+ <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clxxdxx&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Clxxdxx&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 
 <!--
