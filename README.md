@@ -39,15 +39,16 @@ I'm a junior developer who can adapt to both backend and frontend work. I hold d
 
 ## 🏗️ 42 Projects Completed
 
-![Libft](https://img.shields.io/badge/-Libft-0A0A0A?style=for-the-badge&logo=c&logoColor=white)
-![Born2BeRoot](https://img.shields.io/badge/-Born2BeRoot-4E4E4E?style=for-the-badge&logo=linux&logoColor=white)
-![ft_printf](https://img.shields.io/badge/-ft__printf-222222?style=for-the-badge&logo=printf&logoColor=white)
-![get_next_line](https://img.shields.io/badge/-get__next__line-282828?style=for-the-badge&logo=code&logoColor=white)
-![push_swap](https://img.shields.io/badge/-push__swap-505050?style=for-the-badge&logo=arrows-to-dot&logoColor=white)
-![so_long](https://img.shields.io/badge/-so__long-2C2C2C?style=for-the-badge&logo=unity&logoColor=white)
-![pipex](https://img.shields.io/badge/-pipex-444444?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![philosophers](https://img.shields.io/badge/-philosophers-3A3A3A?style=for-the-badge&logo=ghostery&logoColor=white)
+[badges/libftm.png](https://github.com/ayogun/42-project-badges/blob/18a86346602a598546a7b3242da7bebc3fc0e6d0/badges/libftm.png)
 
+https://github.com/ayogun/42-project-badges/blob/18a86346602a598546a7b3242da7bebc3fc0e6d0/badges/born2berootn.png
+
+https://github.com/ayogun/42-project-badges/blob/18a86346602a598546a7b3242da7bebc3fc0e6d0/badges/ft_printfn.png
+https://github.com/ayogun/42-project-badges/blob/18a86346602a598546a7b3242da7bebc3fc0e6d0/badges/get_next_linen.png
+https://github.com/ayogun/42-project-badges/blob/18a86346602a598546a7b3242da7bebc3fc0e6d0/badges/so_longm.png
+https://github.com/ayogun/42-project-badges/blob/18a86346602a598546a7b3242da7bebc3fc0e6d0/badges/push_swapn.png
+https://github.com/ayogun/42-project-badges/blob/18a86346602a598546a7b3242da7bebc3fc0e6d0/badges/pipexn.png
+https://github.com/ayogun/42-project-badges/blob/18a86346602a598546a7b3242da7bebc3fc0e6d0/badges/philosophersn.png
 
 
 <!--
