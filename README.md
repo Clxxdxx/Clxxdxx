@@ -37,18 +37,17 @@ I'm a junior developer who can adapt to both backend and frontend work. I hold d
   [![Claudio's 42 stats](https://badge.mediaplus.ma/darkblue/clalopez)](https://profile.intra.42.fr/users/clalopez)
 </p>
 
-## 🏗️ 42 Projects Completed
+## 🧠 42 Projects
 
-[badges/libftm.png](https://github.com/ayogun/42-project-badges/blob/18a86346602a598546a7b3242da7bebc3fc0e6d0/badges/libftm.png)
+- ✅ [**Libft**](https://github.com/tuusuario/libft): custom C library
+- ✅ [**Born2BeRoot**](https://github.com/tuusuario/Born2BeRoot): secure VM config
+- ✅ [**ft_printf**](https://github.com/tuusuario/ft_printf): own printf
+- ✅ [**get_next_line**](https://github.com/tuusuario/get_next_line): read files line by line
+- ✅ [**push_swap**](https://github.com/tuusuario/push_swap): sort algorithm challenge
+- ✅ [**so_long**](https://github.com/tuusuario/so_long): 2D game in C
+- ✅ [**pipex**](https://github.com/tuusuario/pipex): Unix pipes recreation
+- ✅ [**philosophers**](https://github.com/tuusuario/philosophers): threads/sync problem
 
-https://github.com/ayogun/42-project-badges/blob/18a86346602a598546a7b3242da7bebc3fc0e6d0/badges/born2berootn.png
-
-https://github.com/ayogun/42-project-badges/blob/18a86346602a598546a7b3242da7bebc3fc0e6d0/badges/ft_printfn.png
-https://github.com/ayogun/42-project-badges/blob/18a86346602a598546a7b3242da7bebc3fc0e6d0/badges/get_next_linen.png
-https://github.com/ayogun/42-project-badges/blob/18a86346602a598546a7b3242da7bebc3fc0e6d0/badges/so_longm.png
-https://github.com/ayogun/42-project-badges/blob/18a86346602a598546a7b3242da7bebc3fc0e6d0/badges/push_swapn.png
-https://github.com/ayogun/42-project-badges/blob/18a86346602a598546a7b3242da7bebc3fc0e6d0/badges/pipexn.png
-https://github.com/ayogun/42-project-badges/blob/18a86346602a598546a7b3242da7bebc3fc0e6d0/badges/philosophersn.png
 
 
 <!--
