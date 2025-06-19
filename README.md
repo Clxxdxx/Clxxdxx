@@ -1,4 +1,4 @@
-## Hi there 👋! I'm Claudio López
+## <h1>Hi there 👋! I'm Claudio López </h1>
 I'm a junior developer who can adapt to both backend and frontend work. I hold degrees in Cross-Platform Application Development (CAD) and Web Development (DAW). I'm currently studying at 42 Madrid.
 
 ## 💻 Skills
