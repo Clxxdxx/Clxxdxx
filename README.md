@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋! I'm Claudio López
+I'm a junior developer who can adapt to both backend and frontend work. I hold degrees in Cross-Platform Application Development (CAD) and Web Development (DAW). I'm currently studying at 42 Madrid.
+
+
 
 <!--
 **Clxxdxx/Clxxdxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
