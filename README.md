@@ -49,14 +49,14 @@ I'm a junior developer who can adapt to both backend and frontend work. I hold d
 - ✅ [**pipex**](https://github.com/Clxxdxx/42Projects/tree/main/pipex): Unix pipes recreation
 - ✅ [**philosophers**](https://github.com/Clxxdxx/42Projects/tree/main/philo): threads/sync problem
 - ⏳ [**minishell**](https://github.com/jbogad/mini_shell): Recreation bash shell. (This project is in pairs)
-
+<br/>
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Clxxdxx&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clxxdxx&layout=compact&theme=tokyonight" height="180"/>
 </p>
-
+<br/>
 ## 🏆 GitHub Trophies
 
 <p align="center">
