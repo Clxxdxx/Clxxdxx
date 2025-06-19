@@ -1,4 +1,4 @@
-![Linux-Dark](https://github.com/user-attachments/assets/1c208cce-0b21-4cd5-b659-c35182788466)![PHP-Dark](https://github.com/user-attachments/assets/d2394d26-c0b6-4598-951b-5e867abac01b)![Ubuntu-Dark](https://github.com/user-attachments/assets/f4af8b82-b76c-4c3b-9e09-0d2c2fba9463)## Hi there 👋! I'm Claudio López
+## Hi there 👋! I'm Claudio López
 I'm a junior developer who can adapt to both backend and frontend work. I hold degrees in Cross-Platform Application Development (CAD) and Web Development (DAW). I'm currently studying at 42 Madrid.
 
 ## 💻 Skills
