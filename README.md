@@ -17,7 +17,6 @@ I'm a junior developer who can adapt to both backend and frontend work. I hold d
   <img src="https://github.com/user-attachments/assets/cc4d2a3e-216f-4cd5-bab3-558d93bb3417" width="50" style="margin: 5px;" />
   <img src="https://github.com/user-attachments/assets/ffeebb28-057b-41ce-bdea-e1ed194e2dd8" width="50" style="margin: 5px;" />
   <img src="https://github.com/user-attachments/assets/7052a55c-373a-465e-b2d2-719212772ce9" width="50" style="margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/7ce98be7-e602-4ad0-8e0c-cbdc5bdd342f" width="50" style="margin: 5px;" />
   <img src="https://github.com/user-attachments/assets/66912fbb-a99f-49e1-ac66-88cc57df20b0" width="50" style="margin: 5px;" />
   <img src="https://github.com/user-attachments/assets/13bd2d54-ef6f-4bee-948b-7e256f7c0aae" width="50" style="margin: 5px;" />
   <img src="https://github.com/user-attachments/assets/a3bcf25b-7078-45d9-95ca-fb4c81a0f7d4" width="50" style="margin: 5px;" />
