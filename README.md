@@ -1,5 +1,7 @@
 ## <h1>Hi there 👋! I'm Claudio López </h1>
 I'm a junior developer who can adapt to both backend and frontend work. I hold degrees in Cross-Platform Application Development (CAD) and Web Development (DAW). I'm currently studying at 42 Madrid.
+Currently studying at 42 Madrid, but open to part-time or full-time development opportunities.  
+Feel free to contact me at claudiojaloara@gmail.com!
 
 ## 💻 Skills
 
@@ -26,13 +28,13 @@ I'm a junior developer who can adapt to both backend and frontend work. I hold d
 </p>
 
 ## 🎓 42Cursus
-  [![Claudio's 42 stats](https://badge.mediaplus.ma/darkblue/clalopez)](https://profile.intra.42.fr/users/clalopez)
+  [![42 stats](https://badge.mediaplus.ma/darkblue/clalopez)](https://profile.intra.42.fr/users/clalopez)
 </p>
 <br/>
 
 ## 🧠 42 Projects
 
-- ✅ [**Libft**](https://github.com/Clxxdxx/42Projects/tree/main/libft)): custom C library
+- ✅ [**Libft**](https://github.com/Clxxdxx/42Projects/tree/main/libft): custom C library
 - ✅ [**Born2BeRoot**](https://github.com/tuusuario/Born2BeRoot): secure VM config
 - ✅ [**ft_printf**](https://github.com/Clxxdxx/42Projects/tree/main/ft_printf): own printf
 - ✅ [**get_next_line**](https://github.com/Clxxdxx/42Projects/tree/main/get_next_line): read files line by line
@@ -62,17 +64,3 @@ I'm a junior developer who can adapt to both backend and frontend work. I hold d
 </p>
 
 
-<!--
-**Clxxdxx/Clxxdxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
