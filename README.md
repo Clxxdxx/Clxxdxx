@@ -28,7 +28,7 @@ Feel free to contact me at claudiojaloara@gmail.com!
 </p>
 
 ## 🎓 42Cursus
-  [![42 stats](https://badge.mediaplus.ma/darkblue/gamorcil)](https://profile.intra.42.fr/users/gamorcil)
+  [![42 stats](https://badge.mediaplus.ma/darkblue/clalopez)](https://profile.intra.42.fr/users/clalopez)
 </p>
 <br/>
 
