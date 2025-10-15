@@ -42,7 +42,7 @@ Feel free to contact me at claudiojaloara@gmail.com!
 - ✅ [**so_long**](https://github.com/Clxxdxx/42Projects/tree/main/so_long): 2D game in C
 - ✅ [**pipex**](https://github.com/Clxxdxx/42Projects/tree/main/pipex): Unix pipes recreation
 - ✅ [**philosophers**](https://github.com/Clxxdxx/42Projects/tree/main/philo): threads/sync problem
-- ⏳ [**minishell**](https://github.com/jbogad/mini_shell): Recreation bash shell. (This project is in pairs)
+- ✅ [**minishell**](https://github.com/jbogad/mini_shell): Recreation bash shell. (This project is in pairs)
 <br/>
 
 ## 📈 GitHub Stats
