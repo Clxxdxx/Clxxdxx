@@ -45,20 +45,6 @@ Feel free to contact me at claudiojaloara@gmail.com!
 - ✅ [**minishell**](https://github.com/jbogad/mini_shell): Recreation bash shell. (This project is in pairs)
 <br/>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clxxdxx&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clxxdxx&layout=compact&theme=tokyonight" height="180"/>
-</p>
-<br/>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Clxxdxx&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Clxxdxx&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
