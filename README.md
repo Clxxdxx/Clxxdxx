@@ -43,8 +43,8 @@ Feel free to contact me at claudiojaloara@gmail.com!
 - ✅ [**pipex**](https://github.com/Clxxdxx/42Projects/tree/main/pipex): Unix pipes recreation
 - ✅ [**philosophers**](https://github.com/Clxxdxx/42Projects/tree/main/philo): threads/sync problem
 - ✅ [**minishell**](https://github.com/jbogad/mini_shell): Recreation bash shell. (This project is in pairs)
-- ✅ [**cub3d**](https://github.com/Clxxdxx/42Projects/tree/main/cub3d): Recreation bash shell. (This project is in pairs)
-- ✅ [**CPPs**](https://github.com/Clxxdxx/42Projects/tree/main/CPPs): Recreation bash shell. (This project is in pairs)
+- ✅ [**cub3d**](https://github.com/Clxxdxx/42Projects/tree/main/cub3d): Recreation game 3d with raycasting. (This project is in pairs)
+- ✅ [**CPPs**](https://github.com/Clxxdxx/42Projects/tree/main/CPPs): Introduction and advanced exercices in C++
 <br/>
 
 <p align="center">
